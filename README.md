@@ -17,3 +17,5 @@ echo "# for_study" >> README.md
   git push -u origin main
 
   Добавили текст в браузере
+
+Добавили текст локально
